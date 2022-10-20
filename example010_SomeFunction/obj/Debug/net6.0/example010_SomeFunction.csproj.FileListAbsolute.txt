@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\bin\Debug\net6.0\example010_SomeFunction.exe
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\bin\Debug\net6.0\example010_SomeFunction.deps.json
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\bin\Debug\net6.0\example010_SomeFunction.runtimeconfig.json
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\bin\Debug\net6.0\example010_SomeFunction.dll
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\bin\Debug\net6.0\example010_SomeFunction.pdb
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\example010_SomeFunction.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\example010_SomeFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\example010_SomeFunction.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\example010_SomeFunction.AssemblyInfo.cs
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\example010_SomeFunction.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\example010_SomeFunction.dll
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\refint\example010_SomeFunction.dll
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\example010_SomeFunction.pdb
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\example010_SomeFunction.genruntimeconfig.cache
+C:\Users\нурик\Desktop\zaybal\Lessons_C\example010_SomeFunction\obj\Debug\net6.0\ref\example010_SomeFunction.dll
